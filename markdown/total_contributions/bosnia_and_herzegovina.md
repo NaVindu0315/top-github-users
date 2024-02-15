@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg" alt="Bosnia And Herzegovina">
 </a>
 
-The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2024/2/10 1:37 AM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
+The `public contributions` and `private contributions` by users in Bosnia And Herzegovina on `2024/2/15 7:05 PM UTC`. This list contains users from `Bosnia And Herzegovina` and cities `Sarajevo` `Mostar` `Tuzla` `Zenica` `Brčko`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/NaVindu0315/top-github-users).
 
@@ -117,7 +117,7 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar, BiH</td>
 		<td>26</td>
-		<td>1775</td>
+		<td>1745</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Bihac / Mostar</td>
 		<td>38</td>
-		<td>964</td>
+		<td>958</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -144,8 +144,8 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td><a href="https://twitter.com/ajdin_husetovic">ajdin_husetovic</a></td>
 		<td>Zenica, Bosnia and Herzegovina</td>
-		<td>355</td>
-		<td>438</td>
+		<td>364</td>
+		<td>450</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -158,8 +158,8 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td><a href="https://twitter.com/_RealBigSmoke">_RealBigSmoke</a></td>
 		<td>Sarajevo</td>
-		<td>85</td>
-		<td>341</td>
+		<td>74</td>
+		<td>323</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -173,7 +173,7 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Sarajevo, Bosnia and Herzegovina</td>
 		<td>0</td>
-		<td>216</td>
+		<td>211</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -201,7 +201,7 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Twitter Username</td>
 		<td>Mostar</td>
 		<td>7</td>
-		<td>148</td>
+		<td>143</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -256,8 +256,8 @@ There are `33 users`  in Bosnia And Herzegovina. You need at least `0 followers`
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sarajevo</td>
-		<td>19</td>
-		<td>19</td>
+		<td>51</td>
+		<td>51</td>
 	</tr>
 	<tr>
 		<td>12</td>
