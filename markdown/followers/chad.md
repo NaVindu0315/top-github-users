@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2024/2/27 5:08 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2024/3/4 1:10 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/NaVindu0315/top-github-users).
 
-There are `134 users`  in Chad. You need at least `0 followers` to be on this list.
+There are `135 users`  in Chad. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -367,6 +367,19 @@ There are `134 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/Djerade">
+				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&v=4" width="24" alt="Avatar of Djerade"> Djerade
+			</a><br/>
+			Djeradé Golbé Parfait
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Chad</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/KanaBru">
 				<img src="https://avatars.githubusercontent.com/u/60928633?s=72&u=a86c65c7b86538e0f3c94593a2aa3ea6bf91d54c&v=4" width="24" alt="Avatar of KanaBru"> KanaBru
 			</a><br/>
@@ -378,7 +391,7 @@ There are `134 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>23</td>
 		<td>
 			<a href="https://github.com/MrArchduke">
 				<img src="https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4" width="24" alt="Avatar of MrArchduke"> MrArchduke
@@ -391,7 +404,7 @@ There are `134 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>24</td>
 		<td>
 			<a href="https://github.com/Zelixity">
 				<img src="https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4" width="24" alt="Avatar of Zelixity"> Zelixity
@@ -404,7 +417,7 @@ There are `134 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>25</td>
 		<td>
 			<a href="https://github.com/CanadianJesus1">
 				<img src="https://avatars.githubusercontent.com/u/77854094?s=72&v=4" width="24" alt="Avatar of CanadianJesus1"> CanadianJesus1
@@ -417,7 +430,7 @@ There are `134 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>3</td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>26</td>
 		<td>
 			<a href="https://github.com/atetheone">
 				<img src="https://avatars.githubusercontent.com/u/56987139?s=72&u=5d16b47e7d76bc46c66da41f516c1a13b4b2dab1&v=4" width="24" alt="Avatar of atetheone"> atetheone
@@ -427,19 +440,6 @@ There are `134 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>N'Djamena, Chad</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>
-			<a href="https://github.com/Djerade">
-				<img src="https://avatars.githubusercontent.com/u/70259653?s=72&v=4" width="24" alt="Avatar of Djerade"> Djerade
-			</a><br/>
-			Djeradé Golbé Parfait
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Chad</td>
 		<td>2</td>
 	</tr>
 	<tr>
