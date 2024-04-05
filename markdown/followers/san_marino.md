@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `number of followers` of users in San Marino on `2024/3/30 10:08 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `number of followers` of users in San Marino on `2024/4/5 4:10 PM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/NaVindu0315/top-github-users).
 
@@ -115,7 +115,7 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@coinspect </td>
 		<td><a href="https://twitter.com/agustingianni">agustingianni</a></td>
 		<td>San Marino</td>
-		<td>197</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -562,19 +562,6 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>36</td>
 		<td>
-			<a href="https://github.com/deBrian07">
-				<img src="https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4" width="24" alt="Avatar of deBrian07"> deBrian07
-			</a><br/>
-			Brian C.
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>San Marino, CA</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>
 			<a href="https://github.com/AldoJuniorSimoncini">
 				<img src="https://avatars.githubusercontent.com/u/17861781?s=72&v=4" width="24" alt="Avatar of AldoJuniorSimoncini"> AldoJuniorSimoncini
 			</a><br/>
@@ -583,6 +570,19 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Letvar Srl </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td>
+			<a href="https://github.com/deBrian07">
+				<img src="https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4" width="24" alt="Avatar of deBrian07"> deBrian07
+			</a><br/>
+			Brian C.
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>San Marino, CA</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -601,6 +601,19 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>39</td>
 		<td>
+			<a href="https://github.com/xStaqed">
+				<img src="https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4" width="24" alt="Avatar of xStaqed"> xStaqed
+			</a><br/>
+			xStaqed_
+		</td>
+		<td>School </td>
+		<td>No Twitter Username</td>
+		<td>San Marino</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td>
 			<a href="https://github.com/3N37">
 				<img src="https://avatars.githubusercontent.com/u/49634356?s=72&u=fa5dfe4cee899d0d768f9459e150faa1ec5826cd&v=4" width="24" alt="Avatar of 3N37"> 3N37
 			</a><br/>
@@ -612,7 +625,7 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>40</td>
+		<td>41</td>
 		<td>
 			<a href="https://github.com/textarea">
 				<img src="https://avatars.githubusercontent.com/u/1927403?s=72&u=9bb4450dc8c1ade13e37394472ac29ef8058d8ef&v=4" width="24" alt="Avatar of textarea"> textarea
@@ -625,7 +638,7 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>41</td>
+		<td>42</td>
 		<td>
 			<a href="https://github.com/Design-dei-sistemi">
 				<img src="https://avatars.githubusercontent.com/u/48650012?s=72&u=b983d5802f8d22afa3b9ab18063ff14af8ed0740&v=4" width="24" alt="Avatar of Design-dei-sistemi"> Design-dei-sistemi
@@ -635,19 +648,6 @@ There are `112 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Unirsm.sm </td>
 		<td>No Twitter Username</td>
 		<td>San Marino Republic</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>
-			<a href="https://github.com/xStaqed">
-				<img src="https://avatars.githubusercontent.com/u/89659872?s=72&u=5a11e5484e4d6d2d69d9d1b8981a3731b2c6539a&v=4" width="24" alt="Avatar of xStaqed"> xStaqed
-			</a><br/>
-			xStaqed_
-		</td>
-		<td>School </td>
-		<td>No Twitter Username</td>
-		<td>San Marino</td>
 		<td>2</td>
 	</tr>
 	<tr>
